@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: C'est vendredi
 
 # Your name to show in the footer
-author: Some Person
+author: Jean-Philippe
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,7 +22,7 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Sciences Po: "https://sciencespo.fr"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -52,7 +52,6 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
   github: daattali
   twitter: daattali
   patreon: DeanAttali
